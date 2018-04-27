@@ -1,0 +1,22 @@
+.box {
+  display: block;
+  border: 1px solid black;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  border-radius: 5px;
+  width: 235px;
+  height:auto;
+  padding-bottom: 10px;
+  min-width: 235px;
+}
+
+.zoom {
+  position: absolute;
+  height: 25px;
+  width: 25px;
+  float: right;
+  margin-left: 200px;
+  margin-top: 5px;
+  cursor: pointer;
+}
